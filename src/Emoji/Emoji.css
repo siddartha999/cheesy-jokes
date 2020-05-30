@@ -1,0 +1,9 @@
+.Emoji {
+  display: inline-block;
+  width: 15%;
+  vertical-align: middle;
+}
+
+.Emoji-emoji {
+  font-size: 1.5rem;
+}

@@ -1,0 +1,10 @@
+.Joke {
+  display: inline-block;
+  width: 65%;
+  vertical-align: middle;
+  text-align: left;
+}
+.Joke-joke {
+  font-size: 1.25rem;
+  font-family: monospace;
+}

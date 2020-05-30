@@ -1,5 +1,29 @@
 .App {
   text-align: center;
+  height: 95vh;
+  background: -webkit-linear-gradient(70deg, #ff6464 40%, #5ac8fa 40%);
+  background: -o-linear-gradient(70deg, #ff6464 40%, #5ac8fa 40%);
+  background: -moz-linear-gradient(70deg, #ff6464 40%, #5ac8fa 40%);
+  background: linear-gradient(70deg, #ff6464 40%, #5ac8fa 40%);
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
 
 .App-logo {
