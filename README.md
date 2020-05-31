@@ -7,6 +7,8 @@ Jokes can be up-voted and down-voted, the corresponding emoji changes w.r.t no.o
 
 10 unique Jokes will be generated on clicking 'New Jokes' button.
 
+https://user-images.githubusercontent.com/37662337/83343543-8343f400-a319-11ea-8016-7d363206f1e9.png
+
 TODO features:
 
 1. Store the retrieved jokes in localStorage.
