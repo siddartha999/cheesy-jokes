@@ -9,6 +9,8 @@ Jokes can be up-voted and down-voted, the corresponding emoji changes w.r.t no.o
 
 https://user-images.githubusercontent.com/37662337/83343543-8343f400-a319-11ea-8016-7d363206f1e9.png
 
+https://user-images.githubusercontent.com/37662337/83343573-e5045e00-a319-11ea-8a18-d1fed749db5f.png
+
 TODO features:
 
 1. Store the retrieved jokes in localStorage.
