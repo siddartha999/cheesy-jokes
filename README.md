@@ -1,11 +1,10 @@
 This app renders jokes from https://icanhazdadjoke.com.
 
-Only a single joke is retrieved per request, which might not always be unique. This app tackles that issue with the help of
-business logic that tackles the issue.
-
 Jokes can be up-voted and down-voted, the corresponding emoji changes w.r.t no.of votes.
 
 10 unique Jokes will be generated on clicking 'New Jokes' button.
+
+Only a single joke will be retrieved per request, which might not always be unique. Therefore, business logic is maintained to retrieve 10 unique jokes per click.
 
 https://user-images.githubusercontent.com/37662337/83343543-8343f400-a319-11ea-8016-7d363206f1e9.png
 
